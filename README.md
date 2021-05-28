@@ -1,7 +1,7 @@
 
 ## About Me
 - 👋 Hi, I’m @dipsi-2151
-- 👀 I’m interested in all the wilds of the WWWW 🕸. 
+- 👀 I’m interested in all the wilds of the WWW 🕸. 
 - 🌱 I’m experienced with the wonders of JS 👩‍💻.
 - 💞️ I’m looking to collaborate on projects that challenges me to solve the real world issues of this world 🌍.
 - 🤹‍♀️ My tech skills include the following - Node JS, Type Script, GraphQl, APIS, React JS (beginner) ,Mongo DB, Bootstrap CSS (beginner), GIT & GITHUB. 💻
