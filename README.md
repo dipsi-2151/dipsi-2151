@@ -22,7 +22,7 @@ This is a client website that I made for a construction firm. This website is a 
 Check The Source 👨‍💻 -
 [dipsi-2151/aj-patel-associates.github.io](https://github.com/dipsi-2151/aj-patel-associates.github.io)
 ## Experiences
-**Intern Full Stack Developer**, 
+**Intern Backend Developer**, 
 *[Round Tech Square](https://www.roundtechsquare.com/), Vadodara*
 
-Currently working as an Intern at Round Tech Square. My contributions include building scalable APIS. Building appealing UI providing good UX.
+Currently working as an Intern at Round Tech Square. My contributions include building scalable APIS.
