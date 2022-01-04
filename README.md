@@ -9,7 +9,7 @@
 
 ## Projects
 1. **MASK NET**:
-Mask_Net is an IOT device which identifies whether the person haswear mask or not. It is an advanced IOT system that detects masklessperson, identifies the identity of the person and alerts the authority ofthe source all done using advanced Deep Learning Models.
+Mask_Net is an IOT device which identifies whether the person has wear mask or not. It is an advanced IOT system that detects masklessperson, identifies the identity of the person and alerts the authority of the source all done using advanced Deep Learning Models.
 Contains IOT Device, Client and Admin App and Backend for realtimeinference.
 Check The Source 👨‍💻 -
 [dipsi-2151/Mask_net (github.com)](https://github.com/dipsi-2151/Mask_net)
@@ -25,4 +25,4 @@ Check The Source 👨‍💻 -
 **Intern Backend Developer**, 
 *[Round Tech Square](https://www.roundtechsquare.com/), Vadodara*
 
-Currently working as an Intern at Round Tech Square. My contributions include building scalable APIS.
+worked as an Intern at Round Tech Square. My contributions include building scalable APIS.
